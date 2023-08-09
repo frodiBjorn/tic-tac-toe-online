@@ -1,4 +1,4 @@
-.game {
+/* .game {
   font-family: Arial, Helvetica, sans-serif;
   display: flex;
   flex-direction: column;
@@ -7,18 +7,18 @@
   margin: 100px auto;
   padding: 20px;
   border: 1px solid black;
-}
+} */
 
 .game-info {
   margin-bottom: 10px;
 }
 
-.game-field {
+/* .game-field {
   display: grid;
   grid-template-columns: repeat(3, 30px);
   grid-template-rows: repeat(3, 30px);
   padding: 1px 0 0 1px;
-}
+} */
 
 .cell {
   border: 1px solid grey;
@@ -46,11 +46,11 @@
   color: green;
 }
 
-.reset {
+/* .reset {
   cursor: pointer;
   margin-top: 10px;
   background-color: transparent;
   border: 1px solid gray;
   padding: 4px 12px;
   border-radius: 4px;
-}
+} */
