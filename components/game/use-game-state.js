@@ -31,7 +31,7 @@ export const useGameState = (playersCount) => {
     });
   };
 
-  return {
+  return { 
     cells,
     currentMove,
     nextMove,
